@@ -1,3 +1,3 @@
-# PassMap1
+# PassMap and Heatmap
 
-This is my first attempt at plotting a passmap using the matplotlib and mplsoccer library using Statsbomb data
+This is my first attempt at plotting a passmap and heatmap using the matplotlib,seaborn and mplsoccer library using Statsbomb data
